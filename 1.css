@@ -1,0 +1,18 @@
+/* Selector de etiqueta */
+h1 {
+    color: red;
+}
+
+/* Selector de clase */
+.card {
+    border: 1px solid #ccc;
+}
+
+.div p{
+    color:aqua
+}
+
+/* Selector de ID */
+#tituloPrincipal {
+    font-size: 24px;
+}
